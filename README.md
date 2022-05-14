@@ -18,7 +18,7 @@
 
 - 👯 I’m looking to collaborate on ML and DL with realworld usecase.
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1BXlT8voQFc5nMf2hvoBEjvIg0nnMR97d](https://drive.google.com/drive/folders/1BXlT8voQFc5nMf2hvoBEjvIg0nnMR97d)
+- 👨‍💻 All of my projects and assignment are available at [**Drive**](https://drive.google.com/drive/folders/1BXlT8voQFc5nMf2hvoBEjvIg0nnMR97d)
 
 - 💬 Ask me about machine learning and deep learning
 
