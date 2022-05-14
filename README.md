@@ -40,22 +40,3 @@
 | <a href="https://github.com/MrBam44/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MrBam44&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/MrBam44/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBam44&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
-
-
-<a href="https://github.com/MrBam44/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrBam44&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/MrBam44/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrBam44&repo=MrBam44.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
-
-<a href="https://twitter.com/MrBam44">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/MrBam44/MrBam44/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/MrBam44">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/MrBam44/MrBam44/master/assets/codesandbox.svg" />
-</a>
