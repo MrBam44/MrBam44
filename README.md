@@ -11,7 +11,7 @@
 [GitHub Profile Views Counter]: https://github.com/MrBam44/github-profile-views-counter
 
 ![](https://hit.yhype.me/github/profile?user_id=1849174)
-<img  align="right" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" height="240" width="280" >
+<img  align="right" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" height="240" width="320" >
 
 
 - 🌱 I’m addicted to learning and growing every day
