@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=MrBam44&style=for-the-badge">
 </a>
 
 [Ÿ HŸPE]: https://yhype.me
