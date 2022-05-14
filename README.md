@@ -2,6 +2,9 @@
  <img src="https://hellomlai2017.github.io/image/top.jpg" />
 </h1>
 <h1 align="center">Hi 👋, I'm Shubham</h1>
+<div align='center'>
+<img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=Machine+Learning+Engineer;Enthusiastic+Programmer;Open+Source+Contributor;Learn+%26+Code+for+Everyone'/>
+</div>
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=MrBam44&style=for-the-badge">
