@@ -6,17 +6,17 @@
 <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" height="240" width="480">
 
 
-- 🌱 I’m addicted to learning **and growing every day**
+- 🌱 I’m addicted to learning and growing every day
 
-- 👯 I’m looking to collaborate on **ML and DL with realworld usecase.**
+- 👯 I’m looking to collaborate on ML and DL with realworld usecase.
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1BXlT8voQFc5nMf2hvoBEjvIg0nnMR97d](https://drive.google.com/drive/folders/1BXlT8voQFc5nMf2hvoBEjvIg0nnMR97d)
 
-- 💬 Ask me about **python, open-cv, mysql**
+- 💬 Ask me about machine learning and deep learning
 
 - 📫 How to reach me **kolis7700@gmail.com**
 
-- ⚡ Fun fact **I love plaing cricket, drawing, reading, travelling**
+- ⚡ Fun fact I love plaing cricket, drawing, reading, travelling
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
