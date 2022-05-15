@@ -25,11 +25,12 @@
 
 - 💬 Ask me about machine learning and deep learning
 - <p align="center">
-- 💬 I maintain a Medium Publication <a href="https://medium.com/@MrBam44
-"><img src="http://img.shields.io/badge/-@MrBam44-_? label=Medium&style=social&logo=medium" alt="Medium"></a> We write about ML,DL and other tech changes in the world. Drop message to contribute
+- 💬 I maintain a Medium Publication  <a href="https://medium.com/@MrBam44
+"><img align="center" src="http://img.shields.io/badge/-@MrBam44-_? label=Medium&style=social&logo=medium" alt="Medium"></a>  We write about ML,DL and other tech changes in the world. Drop message to contribute
 
 </p>
-- 📫 How to reach me **kolis7700@gmail.com**
+
+- 📫 How to reach me kolis7700@gmail.com
 
 - ⚡ Fun fact I love plaing cricket, drawing, reading, travelling
 
