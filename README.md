@@ -13,8 +13,7 @@
 [Ÿ HŸPE]: https://yhype.me
 [GitHub Profile Views Counter]: https://github.com/MrBam44/github-profile-views-counter
 
-![](https://hit.yhype.me/github/profile?user_id=1849174)
-<img  align="right" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Animated Logo" height="240" width="320" >
+<img align="right" alt="Animated Logo" height="240" width="320" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" >
 
 
 - 🌱 I’m addicted to learning and growing every day
@@ -61,4 +60,3 @@
 #### 📊 GitHub Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrBam44&hide=stars&hide_title=true&include_all_commits=true&show_icons=true&count_private=true&theme=default)](https://github.com/MrBam44/github-readme-stats)
 [![GitHub language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MrBam44&layout=compact&langs_count=4&theme=default)](https://github.com/MrBam44/github-readme-stats)
-
