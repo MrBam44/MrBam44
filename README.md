@@ -30,7 +30,11 @@
 </p>
 
 - 📫 How to reach me kolis7700@gmail.com
-
+- 🥅 **2022 Goals:** 
+  - Practice LeetCodes
+  - Learn about statistical concepts in-depth.
+  - Learn end-to-end Data Science Workflow with model deployment and monitoring. 
+  - Get better at solving problems.
 - ⚡ Fun fact I love plaing cricket, drawing, reading, travelling
 
 <h3 align="left"> ☎️ Connect with me:</h3>
