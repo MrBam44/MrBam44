@@ -57,7 +57,6 @@
  <a href="https://colab.research.google.com/?utm_source=scs-index/">
   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Colab" width="45" height="45" />
 </a>
- 
  <a href="https://www.jupyter.org/"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="Jupyter Notebook"  width="40" height="40" /> </a>
 </p>
 
