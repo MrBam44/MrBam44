@@ -3,7 +3,7 @@
 </h1>
 <h1 align="center">I'm 👋, Shubham</h1>
 <div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=Machine+Learning+Engineer;Enthusiastic+Programmer;Open+Source+Contributor;Learn+%26+Code+for+Everyone'/>
+<img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=%237E3ACE&center=true&lines=Machine+Learning+Engineer;Enthusiastic+Programmer;Open+Source+Contributor;Learn+%26+Code+for+Everyone'/>
 </div>
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
@@ -73,7 +73,7 @@
 
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" >
+        <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=ubuntu&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" >
     </a>
 </div>
 
