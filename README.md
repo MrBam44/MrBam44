@@ -69,7 +69,7 @@
 [![GitHub language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MrBam44&layout=compact&langs_count=4&theme=default)](https://github.com/MrBam44/github-readme-stats)
 
 <h2>:book: Guestbook</h2>
-<p>Leave a cool message for me or just say you passed by <a href="https://github.com/Carol42/Carol42/issues/new?template=guestbook-entry.md">here</a>!</p>
+<p>Leave a cool message for me or just say you passed by <a href="https://github.com/MrBam44/MrBam44/issues/new?template=guestbook-entry.md">here</a>!</p>
 
 <div align="center">
     <a href="https://git.io/typing-svg">
@@ -78,4 +78,4 @@
 </div>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
-<div align="center" ><img alt="" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/footer.png"></div>
+<div align="center" ><img alt="" width="100%" src="https://github.com/MrBam44/MrBam44/blob/main/assets/footer.png"></div>
