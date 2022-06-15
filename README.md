@@ -37,6 +37,8 @@
   - Get better at solving problems.
 - ⚡ Fun fact I love playing cricket, drawing, swimming, travelling
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
+
 <h3 align="left"> ☎️ Connect with me:</h3>
 <p align="left">
  <a href = "mailto:kolis7700@gmail.com"><img align="center" src='https://img.icons8.com/color/48/000000/gmail.png' alt='gmail' height='30' ></a>
@@ -59,6 +61,8 @@
 </a>
  <a href="https://www.jupyter.org/"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="Jupyter Notebook"  width="40" height="40" /> </a>
 </p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
 
 #### 📊 GitHub Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrBam44&hide=stars&hide_title=true&include_all_commits=true&show_icons=true&count_private=true&theme=default)](https://github.com/MrBam44/github-readme-stats)
