@@ -78,4 +78,4 @@
 </div>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
-<div align="center" ><img alt="" width="100%" src="https://github.com/MrBam44/MrBam44/blob/main/assets/footer.png"></div>
+<div align="center" ><img alt="" width="100%" src="https://github.com/MrBam44/MrBam44/blob/main/git%20Gif/Face%20ID%20glitch%20effect.gif"></div>
