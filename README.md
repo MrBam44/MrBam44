@@ -23,10 +23,7 @@
 - 👨‍💻 All of my projects and assignment are available at [**Drive**](https://drive.google.com/drive/folders/1BXlT8voQFc5nMf2hvoBEjvIg0nnMR97d)
 
 - 💬 Ask me about machine learning and deep learning
-- <p align="center">
-- 💬I write articles about ML,DL and other tech changes in the world on   <a href="https://medium.com/@MrBam44
-"><img align="center" src="http://img.shields.io/badge/-@MrBam44-_? label=Medium&style=social&logo=medium" alt="Medium"></a>  aiming to explain the concepts in layman terms. 
-</p>
+- <p align="center">💬I write articles about ML,DL and other tech changes in the world on   <a href="https://medium.com/@MrBam44"><img align="center" src="http://img.shields.io/badge/-@MrBam44-_? label=Medium&style=social&logo=medium" alt="Medium"></a>  aiming to explain the concepts in layman terms. </p>
 
 - 📫 How to reach me kolis7700@gmail.com
 - 🥅 **2022 Goals:** 
