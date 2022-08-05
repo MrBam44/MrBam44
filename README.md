@@ -62,7 +62,7 @@
 
 
 <h2>:octocat: My GitHub Stats 📊</h2>
-<details>
+
 <summary>General Stats</summary>
 <div>
     <img alt="github repos" src="https://badges.pufler.dev/repos/MrBam44?color=181717&style=for-the-badge&labelColor=7E3ACE">
@@ -75,30 +75,26 @@
         <img height=180em src="https://github-readme-stats.vercel.app/api?username=MrBam44&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true" alt="my github stats" />
     </a>
 </div>
-</details>
-<details>
+
  
-<details>
+
 <summary>Top languages</summary>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBam44&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" />
     </a>
-    <p><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
-</details>
-<details>
+    
+
 <summary>Streak stats</summary>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
         <img height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=MrBam44&theme=midnight-purple&hide_border=true" alt="streak stats"/>
     </a>
-</details>
-<details>
+
 <summary>Contribution Graph</summary>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img alt="github activity graph" src="https://activity-graph.herokuapp.com/graph?username=MrBam44&area=true&hide_border=true&bg_color=000&line=7E3ACE&point=1E0E31&color=7E3aCE&area_color=7E3ACE">
 </a>
-</details>
-<h2>:book: Guestbook</h2>
-<p>Leave a cool message for me or just say you passed by <a href="https://github.com/MrBam44/MrBam44/issues/new?template=guestbook-entry.md">here</a>!</p>
+
+
 
 <div align="center">
     <a href="https://git.io/typing-svg">
