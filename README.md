@@ -89,11 +89,6 @@
         <img height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=MrBam44&theme=midnight-purple&hide_border=true" alt="streak stats"/>
     </a>
 
-<summary>Contribution Graph</summary>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="github activity graph" src="https://activity-graph.herokuapp.com/graph?username=MrBam44&area=true&hide_border=true&bg_color=000&line=7E3ACE&point=1E0E31&color=7E3aCE&area_color=7E3ACE">
-</a>
-
 
 
 <div align="center">
