@@ -37,9 +37,18 @@
 
 <h3 align="left"> ☎️ Connect with me:</h3>
 <p align="left">
+ 
+<a href="https://twitter.com/ajayaadhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajayaadhav" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ajay-aadhav-251773170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-aadhav-251773170" height="30" width="40" /></a>
+<a href="https://fb.com/ajayaadhav10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ajayaadhav10" height="30" width="40" /></a>
+<a href="https://instagram.com/ajayaadhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajayaadhav" height="30" width="40" /></a>
+</p>
+
  <a href = "mailto:kolis7700@gmail.com"><img align="center" src='https://img.icons8.com/color/48/000000/gmail.png' alt='gmail' height='30' ></a>
 
- <a href="https://twitter.com/@shuu_its_bam_44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shuu_its_bam_44" height="30" width="40" /></a>
+  
+ <a href="https://twitter.com/shuu_its_bam_44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shuu_its_bam_44" height="30" width="40" /></a>
+ 
 <a href="https://www.linkedin.com/in/shubham-koli-073610209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubham-koli-073610209" height="30" width="40" /></a>
  <a href = https://github.com/MrBam44><img align="center" src='https://img.icons8.com/color/2x/github--v1.png' alt='github' height='40'></a>
 <a href="https://kaggle.com/shubhamkoli4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shubhamkoli4" height="30" width="40" /></a>
