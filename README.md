@@ -37,18 +37,8 @@
 
 <h3 align="left"> ☎️ Connect with me:</h3>
 <p align="left">
- 
-<a href="https://twitter.com/ajayaadhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajayaadhav" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ajay-aadhav-251773170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-aadhav-251773170" height="30" width="40" /></a>
-<a href="https://fb.com/ajayaadhav10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ajayaadhav10" height="30" width="40" /></a>
-<a href="https://instagram.com/ajayaadhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajayaadhav" height="30" width="40" /></a>
-</p>
-
  <a href = "mailto:kolis7700@gmail.com"><img align="center" src='https://img.icons8.com/color/48/000000/gmail.png' alt='gmail' height='30' ></a>
-
-  
  <a href="https://twitter.com/shuu_its_bam_44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shuu_its_bam_44" height="30" width="40" /></a>
- 
 <a href="https://www.linkedin.com/in/shubham-koli-073610209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubham-koli-073610209" height="30" width="40" /></a>
  <a href = https://github.com/MrBam44><img align="center" src='https://img.icons8.com/color/2x/github--v1.png' alt='github' height='40'></a>
 <a href="https://kaggle.com/shubhamkoli4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shubhamkoli4" height="30" width="40" /></a>
@@ -73,27 +63,27 @@
 
 <h2>:octocat: My GitHub Stats 📊</h2>
 
-<summary>General Stats</summary>
-<div>
-    <img alt="github repos" src="https://badges.pufler.dev/repos/MrBam44?color=181717&style=for-the-badge&labelColor=7E3ACE">
-    <img alt="commits today" src="https://badges.pufler.dev/commits/daily/MrBam44?color=181717&style=for-the-badge&labelColor=7E3ACE">
-    <img alt="commits this week" src="https://badges.pufler.dev/commits/weekly/MrBam44?color=181717&style=for-the-badge&labelColor=7E3ACE">
-    <img alt="commits this month" src="https://badges.pufler.dev/commits/monthly/MrBam44?color=181717&style=for-the-badge&labelColor=7E3ACE">
-</div>
-<div alig="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=180em src="https://github-readme-stats.vercel.app/api?username=MrBam44&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true" alt="my github stats" />
-    </a>
+<!-- Light Mode -->
+<div align="left"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rickstaa&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Rick Staa's Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rickstaa&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Rick Staa's Github stats" />
+</a>
 </div>
 
- 
+<!-- Dark Mode -->
+<div align="left"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rickstaa&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rickstaa&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Github stats" />
+</a>
+</div>
 
-<summary>Top languages</summary>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBam44&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" />
-    </a>
-    
-
+<br/>
 <summary>Streak stats</summary>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
         <img height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=MrBam44&theme=midnight-purple&hide_border=true" alt="streak stats"/>
