@@ -63,27 +63,13 @@
 
 <h2>:octocat: My GitHub Stats 📊</h2>
 
-<!-- Light Mode -->
-<div align="left"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rickstaa&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Rick Staa's Language stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rickstaa&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Rick Staa's Github stats" />
-</a>
-</div>
+![Github stats](https://github-readme-stats.vercel.app/api?username=MrBam44&theme=midnight-purple&hide_border&show_icons=true&count_private=true)
 
-<!-- Dark Mode -->
-<div align="left"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rickstaa&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Language stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rickstaa&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Github stats" />
-</a>
-</div>
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=MrBam44&theme=midnight-purple&hide_border)
 
-<br/>
+
+
+
 <summary>Streak stats</summary>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
         <img height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=MrBam44&theme=midnight-purple&hide_border=true" alt="streak stats"/>
